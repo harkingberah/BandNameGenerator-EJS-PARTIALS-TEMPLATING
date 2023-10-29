@@ -1,0 +1,1 @@
+# BandNameGenerator-EJS-PARTIALS-TEMPLATING
